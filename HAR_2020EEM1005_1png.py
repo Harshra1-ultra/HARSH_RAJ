@@ -1,3 +1,6 @@
+
+### for morphologycal operation on an image 
+
 import cv2 
 from skimage import io 
 from matplotlib import pyplot as plt
