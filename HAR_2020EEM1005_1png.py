@@ -1,5 +1,6 @@
 
 ### for morphologycal operation on an image 
+# like opening , closing , thresolding and dialtion , tophat , bottomhat 
 
 import cv2 
 from skimage import io 
